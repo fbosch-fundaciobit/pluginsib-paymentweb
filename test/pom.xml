@@ -32,11 +32,6 @@
     </repository>
   </repositories>
   <dependencies>
-    <!--<dependency>
-      <groupId>org.fundaciobit.plugins</groupId>
-      <artifactId>plugins-api</artifactId>
-      <version>1.0.0</version>
-    </dependency>-->
     <dependency>
       <groupId>org.fundaciobit.pluginsib.paymentweb</groupId>
       <artifactId>pluginsib-paymentweb-api</artifactId>
